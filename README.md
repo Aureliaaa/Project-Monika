@@ -3,4 +3,4 @@
 
 Project Monika is currently still in the early stages of development. The current files uploaded are NOT complete.
 
-[Official Project Monika discord server](https://discord.gg/UMWHeMF "Pls join")
+[Official Project Monika discord server](https://discord.gg/UMWHeMF "Just Monika")
